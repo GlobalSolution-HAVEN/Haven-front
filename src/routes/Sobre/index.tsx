@@ -1,11 +1,4 @@
 export default function Sobre() {
-  const team = [
-    {
-      name: 'Equipe de Desenvolvimento',
-      role: 'Criadores da HAVEN',
-      description: 'Desenvolvida com paixão por bem-estar e tecnologia'
-    }
-  ]
 
   const values = [
     {
